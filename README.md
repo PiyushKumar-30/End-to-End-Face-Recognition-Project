@@ -5,7 +5,7 @@ This project implements a real-time face recognition system using JavaScript and
 ## Features
 
 - Detects faces in real-time using your webcam.
-- Recognizes pre-defined faces (e.g., Messi, Piyush, Ronaldo).
+- Recognizes pre-defined faces (e.g., Messi, Ronaldo).
 - Displays bounding boxes around recognized faces with their names.
 
 ## Images
@@ -29,6 +29,14 @@ This project implements a real-time face recognition system using JavaScript and
 * Ensure your webcam is connected and accessible by your browser.
 * Open index.html to start the application.
 * Follow on-screen instructions to position your face within the video frame for detection.
+
+## Adding Images of Another Person
+To add images of another person for recognition:
+
+* Go to the folder named labels.
+* Create a new folder and rename it with the actual name of the person whose photos you are going to upload.
+* Upload 3 images of the person (in PNG format) and rename the photos to 1.png, 2.png, and 3.png respectively.
+* Done!
 
 ## Note
 Currently, the system can only recognize a few people due to data copyright issues.
