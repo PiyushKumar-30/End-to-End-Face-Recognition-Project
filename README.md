@@ -2,6 +2,10 @@
 
 This project implements a real-time face recognition system using JavaScript and the Face API library. It allows detecting and recognizing faces captured through a webcam.
 
+## Test the Project
+
+You can test the face recognition system https://piyushkumar-30.github.io/End-to-End-Face-Recognition-Project/
+
 ## Features
 
 - Detects faces in real-time using your webcam.
