@@ -40,6 +40,7 @@ To add images of another person for recognition:
 * Go to the folder named labels.
 * Create a new folder and rename it with the actual name of the person whose photos you are going to upload.
 * Upload 3 images of the person (in PNG format) and rename the photos to 1.png, 2.png, and 3.png respectively.
+* Now go to script.js file and add the actual name of the person in Labels List.
 * Done!
 
 ## Note
